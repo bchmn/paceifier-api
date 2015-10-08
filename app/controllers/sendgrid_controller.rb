@@ -1,0 +1,2 @@
+class SendgridController < ApplicationController
+end
